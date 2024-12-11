@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: rgb(191, 147, 231);
+    background-color: rgba(18, 32, 21, 0.171);
 
 }
 
@@ -15,4 +15,8 @@ main {
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
+}
+
+img.lado {
+    float: right;
 }
